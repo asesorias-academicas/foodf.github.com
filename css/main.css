@@ -1,0 +1,89 @@
+//=====================//
+// Página: Comida      //
+//                     //
+//                     //
+//                     //
+//                     //
+//                     //
+//=====================//
+body{
+	font-family: "Lato", sans-serif;
+
+}
+
+img{
+	width: 50%;
+}
+.retraso{
+	-webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	animation-delay: 1s;
+}
+.retraso-2{
+	-webkit-animation-delay: 2s;
+	-moz-animation-delay: 2s;
+	animation-delay: 2s;
+}
+.mediano{
+	font-size: 1.5em;
+}
+.vete-arriba{
+	vertical-align: top;
+}
+.ja{
+	width: 25%;
+}
+.a-float{
+	float: none;
+}
+.espacio-arriba{
+	margin-top: 100px
+}
+.pacifico{
+	font-family: "Pacifico", cursive;
+}
+.se-gris{
+	background-color: #eee;
+}
+.padding-largo{
+	padding: 5px 10px;
+}
+.grande{
+	font-size: 3em;
+}
+.verde{
+	color: #00887C;
+}
+.espacio-derecha{
+	margin-right: 1.5em;
+}
+.no-lista{
+	margin: 0px;
+	padding: 0px;
+}
+.no-lista li{
+	list-style-type: none;
+}
+.title{
+	color: #009FFF;
+}
+.no-list article{
+	list-style-type: none;
+}
+.hello{
+	float: none;
+	display: inline-block;
+	margin-right: -4px;
+}
+a,.azul{
+	color: #009FFF;
+}
+.espacio-izq{
+	margin-left: 60px;
+}
+.espacio-izq2{
+	margin-left: 100px;
+}
+.espacio-izq3{
+	margin-left: 20px;
+}
